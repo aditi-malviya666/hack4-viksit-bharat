@@ -203,6 +203,7 @@ Once the simulator starts:
 *   **Datasets**: Cityscapes Dataset (Cordts et al.).
 *   **Created For**: Interactive Vision Speed Smoothing & Safety Project.
 *   **Team / Collaborators**:
-    *   Aditi Malviya
+    *   Vishal Kushwaha
     *   Ashi Dubey
-    *   Anshika
+    *   Anshika Shroff
+      
