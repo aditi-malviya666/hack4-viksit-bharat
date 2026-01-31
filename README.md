@@ -128,8 +128,8 @@ python demo_dual_stream.py
 Once the simulator starts:
 1.  **Sit comfortably** in front of your webcam.
 2.  Ensure your face is detected (Green box around face).
-3.  **To Start (Go)**: Show an **OPEN PALM** (Hand up, fingers spread). The car will speed up.
-4.  **To Stop**: Show a **FIST** (Closed hand). The car will brake.
+3.  **To Start (Go)**: Show a  **FIST**. The car will speed up.
+4.  **To Stop**: Show an **OPEN PALM**. The car will brake.
 5.  **To Turn**: Lean your head **Left** or **Right**.
 6.  **Autonomous Fallback**: If you hide your face or move out of frame, the AI takes over automatically.
 
